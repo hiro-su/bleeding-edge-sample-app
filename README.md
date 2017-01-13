@@ -8,7 +8,8 @@ A sample app for a Bleeding Edge Press book.
 ## Installation
 
 ```bash
-npm install
+npm install --global yarn
+yarn install
 ```
 
 That's it! Now you're ready to run the app or run tests.
